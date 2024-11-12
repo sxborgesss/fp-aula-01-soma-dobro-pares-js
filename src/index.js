@@ -2,6 +2,6 @@
 
 import * as math from './math.js';
 
-const numeros = [1, 2, 3, 4, 5, 6]; // escolha os números que desejar 
+const numeros = [4, 2, 10, 4, 5, 40]; // escolha os números que desejar
 console.log('Soma usando a abordagem funcional:', math.somaDobroNumerosParesFuncional(numeros))
 console.log('Soma usando a abordagem estrutural (procedural):', math.somaDobroNumerosParesProcedural(numeros))
